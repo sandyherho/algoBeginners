@@ -6,6 +6,11 @@ __pycache__/
 # Jupyter Notebook
 .ipynb_checkpoints
 .virtual_documents/
+**/.virtual_documents/
+*/.virtual_documents/
+.virtual_documents
+**/.virtual_documents
+*/.virtual_documents
 
 # Distribution / packaging
 dist/
